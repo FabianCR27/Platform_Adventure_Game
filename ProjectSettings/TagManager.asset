@@ -10,6 +10,12 @@ TagManager:
   - Death
   - enemy
   - pull
+  - FX
+  - DeathByLava
+  - Treasure
+  - Ice
+  - UI
+  - SpiderEnemy
   layers:
   - Default
   - TransparentFX
